@@ -1,0 +1,49 @@
+nav{
+    background-color: #2FA4FF;
+}
+
+nav ul{
+    margin-left: 58vw;
+}
+.move{
+    margin-left: 2vw;
+}
+.parent{
+    margin-top: 2%;
+    display:flex;
+    justify-content: space-around;
+}
+.text{
+    width:45vw;
+    height: auto;
+    text-align: center;
+    margin-top: 35px;
+}
+.image img
+{
+    margin-top: 20vh;
+    width:40vw;
+    height: auto;
+}
+#Homepage
+{
+    background-color: #E8FFC2;
+    height: 100vh;
+
+}
+.heading
+{
+    
+    margin-left: 10vw;
+    width: 80vw;
+    text-align: justify;
+}
+.heading h2{
+    text-align: center;
+    margin-top: 30vh;
+    margin-bottom: 30px;
+}
+.text h1
+{
+    margin-top: 100px;
+}
